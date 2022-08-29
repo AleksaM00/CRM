@@ -1,0 +1,57 @@
+Mon Feb 15 15:54:24 2021 [7348][-none-][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 15:54:39 2021 [7348][-none-][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Mon Feb 15 15:54:40 2021 [7348][-none-][FATAL] Email address save error
+Mon Feb 15 15:54:48 2021 [7348][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 15:54:54 2021 [7348][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 15:54:56 2021 [7348][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 15:55:00 2021 [7348][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 16:00:23 2021 [7348][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Feb 15 16:14:41 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 86f6793c-cb8d-2316-8454-602a8f9f508d, boolean given
+Mon Feb 15 16:14:41 2021 [7348][1][FATAL] Email address save error
+Mon Feb 15 16:16:11 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 5c2ba1a0-7bb1-bdee-65af-602a90c9fe17, boolean given
+Mon Feb 15 16:17:48 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 10672e6f-ba76-0954-32a1-602a90884f2d, boolean given
+Mon Feb 15 16:19:01 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 4a822305-b7a6-2086-4f82-602a90dce93c, boolean given
+Mon Feb 15 16:22:44 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 3c6c32ff-0a4f-2087-6393-602a916c27af, boolean given
+Mon Feb 15 16:22:44 2021 [7348][1][FATAL] Email address save error
+Mon Feb 15 16:28:41 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 77c4d9f1-c84e-42a4-d9ba-602a93aa6c6c, boolean given
+Mon Feb 15 16:28:41 2021 [7348][1][FATAL] Email address save error
+Mon Feb 15 16:32:00 2021 [7348][1][FATAL] User update error: Temp User is not retrieved at ID 90242a3a-f56f-1626-e164-602a93c1e81b, boolean given
+Mon Feb 15 16:32:00 2021 [7348][1][FATAL] Email address save error
+Mon Feb 15 23:49:14 2021 [7348][1][FATAL] Email address save error
+Mon Feb 15 23:49:14 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:04:24 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:04:24 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:04:31 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:04:31 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:12:36 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:12:36 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:12:47 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:12:47 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:16:12 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:16:12 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:16:24 2021 [7348][1][FATAL] Email address save error
+Tue Feb 16 00:16:24 2021 [7348][1][FATAL] Saving probably failed or bean->save() method did not return with a positive result.
+Tue Feb 16 00:18:58 2021 [7348][3c6c32ff-0a4f-2087-6393-602a916c27af][FATAL] Email address save error
+Tue Feb 16 13:50:52 2021 [6576][1][FATAL] Notifications: error sending e-mail, smtp server was not found 
+Tue Feb 16 13:54:25 2021 [6576][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Feb 16 14:45:43 2021 [6576][1][FATAL] Mysqli_query failed.
+Tue Feb 16 14:45:43 2021 [6576][1][FATAL]  Query Failed: UPDATE email_addresses 
+                  SET 
+                    email_address = 'milos.jovanovic@gmail.com', 
+                    email_address_caps = 'MILOS.JOVANOVIC@GMAIL.COM' 
+                  WHERE 
+                    id = ''929b3a87-ceb6-9181-d871-602a938d38eb'' AND
+                    deleted = 0: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '929b3a87-ceb6-9181-d871-602a938d38eb'' AND
+                    deleted = 0' at line 6
+Tue Feb 16 14:52:16 2021 [6576][1][FATAL] User update error: Temp User is not retrieved at ID 8bcd2485-ea70-1ad0-05ba-602bce629c31, boolean given
+Tue Feb 16 14:52:16 2021 [6576][1][FATAL] Email address save error
+Tue Feb 16 14:54:02 2021 [6576][1][FATAL] Email address save error
+Tue Feb 16 15:02:28 2021 [6576][1][FATAL] User update error: Temp User is not retrieved at ID 5277966c-7c86-d40e-1f24-602bd08a56d4, boolean given
+Tue Feb 16 15:02:28 2021 [6576][1][FATAL] Email address save error
+Tue Feb 16 16:13:56 2021 [6576][77c4d9f1-c84e-42a4-d9ba-602a93aa6c6c][FATAL] Email address save error
+Tue Feb 16 16:22:10 2021 [6576][5277966c-7c86-d40e-1f24-602bd08a56d4][FATAL] Email address save error
+Tue Feb 16 16:22:10 2021 [6576][5277966c-7c86-d40e-1f24-602bd08a56d4][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Feb 16 19:26:24 2021 [6576][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Feb 17 11:38:49 2021 [5984][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Feb 18 10:28:08 2021 [11684][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Feb 18 10:28:19 2021 [11684][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
